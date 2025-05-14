@@ -1,1 +1,1 @@
-I am about to create a html website for my favorite anime heroines
+The project for The Odin Project's HTML section. I am about to create a html website for my favorite anime heroines instead of a boring recipe website ^
